@@ -10,7 +10,7 @@ let redo = document.querySelector(".redo");
 let undo = document.querySelector(".undo");
 
 let penColor = "red";
-let eraserColor = "blue";
+let eraserColor = "white";
 let penWidth = pencilWidthElem.value;
 let eraserWidth = eraserWidthElem.value;
 
