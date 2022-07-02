@@ -88,6 +88,9 @@ body {
 .blue {
     background-color: blue;
 }
+.green {
+    background-color: green;
+}
 .eraser-tool-cont {
     height: 2rem;
     width: 7rem;
